@@ -1,0 +1,6 @@
+Rencana Olahraga:
+- lari:
+  *easy run
+  *long run
+- badminton
+- sepeda
