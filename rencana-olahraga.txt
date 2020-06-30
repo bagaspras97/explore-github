@@ -1,4 +1,6 @@
 Rencana Olahraga:
-- lari
+- lari:
+  *easy run
+  *long run
 - badminton
 - sepeda
