@@ -3,6 +3,7 @@ Rencana Olahraga:
   *easy run
   *long run
   *sprint
+  *fartlek
 - badminton
 - sepeda
 - renang
