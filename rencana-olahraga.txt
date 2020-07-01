@@ -2,5 +2,7 @@ Rencana Olahraga:
 - lari:
   *easy run
   *long run
+  *sprint
 - badminton
 - sepeda
+- renang
